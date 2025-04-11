@@ -1,1 +1,3 @@
-# Practica-1-INF-121
+NOMBRE COMPLETO: Alejandro Gabriel Mallcu Calani
+CI: 8442583
+RU: 1802338
